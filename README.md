@@ -36,9 +36,9 @@ m2 = m1
 m1 = temp
 print('Swapped values are:',m1,m2)
 ```
-##OUTPUT
-![](./swapping.png)
 
+## OUTPUT:
+![](./swap.png)
 
 
 ## RESULT:
